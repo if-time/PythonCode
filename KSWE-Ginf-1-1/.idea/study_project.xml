@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StudySettings">
+    <StudyTaskManager>
+      <option name="course">
+        <RemoteCourse>
+          <option name="adaptive" value="false" />
+          <option name="additionalMaterialsUpdateDate" value="1535454890000" />
+          <option name="authors">
+            <list>
+              <StepicUser>
+                <option name="accessToken" value="" />
+                <option name="firstName" value="Oliver" />
+                <option name="guest" value="false" />
+                <option name="id" value="53515218" />
+                <option name="lastName" value="Probst" />
+                <option name="refreshToken" value="" />
+              </StepicUser>
+            </list>
+          </option>
+          <option name="compatible" value="true" />
+          <option name="courseMode" value="Study" />
+          <option name="courseType" value="PyCharm" />
+          <option name="customPresentableName" />
+          <option name="description" value="Kantonsschule Wettingen, Grundlagenfach Informatik, 1. Jahr, 1. Semester&#10;&#10;&#10;&#10;Note: We’re sorry, but this course feels a little incomplete. If you are the owner of the course please &lt;a href=&quot;mailto:Tatiana.Vasilyeva@jetbrains.com&quot;&gt;get in touch with us&lt;/a&gt;, we would like to verify this with you; we think with improvement this can be listed as a featured course in the future." />
+          <option name="id" value="25107" />
+          <option name="index" value="-1" />
+          <option name="instructors">
+            <list>
+              <option value="53515218" />
+            </list>
+          </option>
+          <option name="language" value="Python" />
+          <option name="languageCode" value="en" />
+          <option name="loadSolutions" value="true" />
+          <option name="name" value="KSWE-Ginf-1-1" />
+          <option name="public" value="true" />
+          <option name="sectionIds">
+            <list />
+          </option>
+          <option name="stepikChangeStatus" value="Up to date" />
+          <option name="type" value="pycharm5 Python" />
+          <option name="updateDate" value="1536663956000" />
+          <option name="items">
+            <list>
+              <Section>
+                <option name="course" value="25107" />
+                <option name="customPresentableName" />
+                <option name="id" value="38039" />
+                <option name="index" value="1" />
+                <option name="name" value="auftrag-03" />
+                <option name="position" value="1" />
+                <option name="stepikChangeStatus" value="Up to date" />
+                <option name="updateDate" value="1535986170000" />
+                <option name="units">
+                  <list>
+                    <option value="101720" />
+                  </list>
+                </option>
+                <option name="items">
+                  <list>
+                    <Lesson>
+                      <option name="customPresentableName" />
+                      <option name="id" value="127566" />
+                      <option name="index" value="1" />
+                      <option name="name" value="3 Hello World" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="updateDate" value="1535986170000" />
+                      <option name="taskList">
+                        <list>
+                          <EduTask>
+                            <option name="additionalFiles">
+                              <map />
+                            </option>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="MD" />
+                            <option name="descriptionText" value="## Aufbau PyCharm Edu&#10;&#10;In diesem Task geht es darum, die wichtigsten Funktionsweisen von PyCharm Edu kennenzulernen.&#10;&#10;***&#10;1. **Arbeitsanweisung**: Lesen Sie diese Beschreibung um den Aufbau von PyCharm Edu zu verstehen.&#10;&#10;***&#10;&#10;### Übersicht&#10;&#10;Wenn Sie mit PyCharm Edu arbeiten, werden Sie zunächst mit folgenden **vier** Fenstern in Kontakt kommen:&#10;&#10;![](http://informatik.education/kswe/ginf/01/03/31/pycharm-edu-01.png)&#10;&#10;Links ist das **Project**-Fenster (gelb), in der Mitte der **Editor** (blau) und&#10;rechts die **Task**-Beschreibung (grün), d.h. das Fenster mit dem Text den Sie gerade lesen.&#10;Das **Run**-Fenster im unteren Bereich (orange) ist zu Beginn noch nicht geöffnet.&#10;&#10;### Project&#10;&#10;Für den Anfang arbeiten wir mit PyCharm Edu im *Course*-Modus.&#10;Sie erkennen dies daran, dass links oben `Course` angezeigt wird (siehe gelb hervorgehobene 1).&#10;&#10;![](http://informatik.education/kswe/ginf/01/03/31/pycharm-edu-02.png)&#10;&#10;Darunter befindet sich die `Course`-Struktur mit den Inhalten.&#10;Ein `Course` ist aufgeteilt in `Sections`, `Lessons` und `Tasks`. Jeder **Task** ist mit&#10;einem kleinen Quadrat versehen und besitzt eine **Python-Datei** mit&#10;der **Dateiendung &quot;.py&quot;** (und eventuell noch weitere Dateien, siehe 2).&#10;&#10;*Beispiel*: Dieser Kurs (oben im Bild) hat den  Titel &quot;KSWE-Ginf-1-1&quot;. Es gibt momentan nur die Section &quot;auftrag-03&quot;.&#10;Diese wiederum besitzt die Lesson &quot;3 Hello World&quot; mit zwei Tasks. Ein Task ist beispielsweise&#10;&quot;3.1 Aufbau PyCharm Edu&quot; mit der Python-Datei &quot;task.py&quot;.&#10;&#10;Die **Titel** werden immer passend zum **ausgedruckten Auftragsblatt** gewählt&#10;(vergleichen Sie dies mit dem Ihnen vorliegenden Auftragsblatt):&#10;&#10;* Der `Section`-Titel lautet immer Auftrag gefolgt von der Nummerierung.&#10;* Der `Lesson`-Titel entspricht dem Titel einer Aufgabe.&#10;* Der `Task`-Titel ist immer innerhalb der entsprechende Aufgabe auf dem Auftragsblatt zu finden.&#10;&#10;Mit einem Doppelklick auf einen `Course` können Sie den Inhalt öffnen,&#10;mit einem Doppelklick auf den `Task`-Titel, können Sie die Beschreibung zum&#10;Task öffnen (siehe grüner Kasten bzw. den Bereich den Sie hier gerade lesen). Ein Doppelklick auf&#10;die Python-Datei bewirkt, dass der Inhalt der Datei im **Editor** angezeigt wird&#10;(siehe blauer Kasten und nächster Abschnitt).&#10;&#10;Das `Project`-Fenster können Sie mit einem Klick auf `Project` (siehe 3) ein- und ausblenden&#10;(falls Sie zum Beispiel mehr Platz für ein anderes Fenster möchten).&#10;&#10;### Editor&#10;&#10;Dieses Fenster (blauer Kasten) wird dazu verwendet, um eine Python-Datei zu editieren.&#10;Sie sehen oben einen Tab (siehe blau hervorgehobene 4) mit dem Dateinamen der Python-Datei&#10;die Sie gerade im Editor bearbeiten.&#10;&#10;![](http://informatik.education/kswe/ginf/01/03/31/pycharm-edu-03.png)&#10;&#10;*Beispiel*: Im Editor ist gerade die Datei &quot;task.py&quot; geöffnet. Die Datei besitzt&#10;exakt einen Befehl als Inhalt. Die Datei besitzt somit ein **Programm**,&#10;welches aus **einem Befehl** besteht.&#10;&#10;Der Editor besitzt links Zeilennummern (siehe 5), welche wir verwenden können um über ein Programm zu sprechen.&#10;&#10;*Beispiel*: Fügen Sie in Zeile 2 folgenden Befehl ein: ...&#10;&#10;Das Betrachten eines Programms im Editor führt noch **nicht** dazu, dass das&#10;Programm auch **ausgeführt** wird. Dazu ist ein separater Vorgang notwendig,&#10;welcher im nächsten Abschnitt erklärt wird.&#10;&#10;### Run-Fenster&#10;&#10;Sie können ein Programm direkt aus dem Editor ausführen in dem Sie im Editor links auf den grünen `Execute`-Button&#10;(siehe blau hervorgehobene 6) klicken:&#10;&#10;![](http://informatik.education/kswe/ginf/01/03/31/pycharm-edu-04.png)&#10;&#10;***&#10;2. **Arbeitsanweisung**: Führen Sie das Programm, welches sich in der Datei `task.py` befindet, nun aus.&#10;&#10;***&#10;&#10;Für die Ausführung des Programms öffnet sich das `Run`-Fenster im unteren Teil von PyCharm Edu (siehe oranger Kasten).&#10;&#10;![](http://informatik.education/kswe/ginf/01/03/31/pycharm-edu-05.png)&#10;&#10;Der Befehl&#10;&#10;``` python&#10;print(&quot;Hello World!&quot;)&#10;```&#10;&#10;bewirkt, dass `Hello World!` in der Konsole angezeigt wird. Die Konsole wurde von mir im Screenshot orange-transparent eingefärbt.&#10;Mehr zur Konsole erfahren Sie im nächsten Task. Das `Run`-Fenster können Sie mit einem Klick auf den&#10;Tab `Run` (siehe orange hervorgehobene 7) ein- und ausblenden.&#10;Im oberen Tab (siehe 8) sehen Sie den Python-Dateinamen. Der Inhalt dieser Datei wurde ausgeführt.&#10;Falls Sie dasselbe Programm erneut ausführen möchten, dann können Sie den `Rerun`-Button (siehe 9) verwenden.&#10;&#10;### Task Beschreibung&#10;&#10;Der grüne Kasten beinhaltet die Arbeitsanweisungen. Oben (siehe grün hervorgehobene 10) haben Sie ein **Navigationsmenü** mit den folgenden Buttons:&#10;&#10;* **Check Task** (siehe 11): Sie können eine Aufgabe als erledigt markieren.&#10;* **Previous Task** (siehe 12) und **Next Task** (siehe 13): Sie können zum vorherigen bzw. nächsten Task springen.&#10;* **Reset Task File** (siehe 14): Setzt einen Task wieder in den Anfangszustand zurück (Achtung: alle von Ihnen eingetippten Befehle werden gelöscht!).&#10;&#10;![](http://informatik.education/kswe/ginf/01/03/31/pycharm-edu-06.png)&#10;&#10;***&#10;3. **Arbeitsanweisung**: Sie haben diesen Task erfolgreich abgeschlossen, sofern Sie den Text gelesen haben und das Programm erfolgreich ausgeführt wurde. Markieren Sie den Task als erledigt und&#10;fahren Sie nun mit dem Abschnitt &quot;3.3 Begriffe&quot; auf dem Auftragsblatt fort.&#10;&#10;***&#10;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="index" value="1" />
+                            <option name="name" value="3.1 Aufbau PyCharm Edu" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepId" value="423952" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="testsText">
+                              <map>
+                                <entry key="tests.py" value="from test_helper import run_common_tests, failed, passed, get_answer_placeholders&#10;&#10;&#10;def test_answer_placeholders():&#10;    placeholders = get_answer_placeholders()&#10;    placeholder = placeholders[0]&#10;    if placeholder == &quot;&quot;:       # TODO: your condition here&#10;        passed()&#10;    else:&#10;        failed()&#10;&#10;&#10;if __name__ == '__main__':&#10;    print(&quot;Check Task&quot;)&#10;    # run_common_tests()&#10;    # test_answer_placeholders()       # TODO: uncomment test call&#10;&#10;&#10;" />
+                              </map>
+                            </option>
+                            <option name="updateDate" value="1535986169000" />
+                            <option name="taskFiles">
+                              <map>
+                                <entry key="task.py">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="userCreated" value="false" />
+                                      <option name="name" value="task.py" />
+                                      <option name="text" value="print(&quot;Hello World!&quot;)&#10;" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                          </EduTask>
+                          <EduTask>
+                            <option name="additionalFiles">
+                              <map />
+                            </option>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="MD" />
+                            <option name="descriptionText" value="## Das Hello-World-Programm&#10;&#10;Ein typisches Programm, welches man in einer Programmiersprache zuerst schreibt&#10;(es gibt dazu auch einen [Wikipedia-Artikel](https://de.wikipedia.org/wiki/Hallo-Welt-Programm)),&#10;ist das *Hello World*-Programm. Sie haben bereits in einem vorherigen Task solch ein Programm kennengelernt.&#10;Das Ziel dieses Programms ist es, dass der Computer die Welt &quot;begrüsst&quot; und Sie prüfen können, ob alles korrekt installiert wurde.&#10;In diesem Task geht es nun darum, dass Sie nochmals solch ein Programm selbst schreiben und erweitern.&#10;&#10;***&#10;1. **Arbeitsanweisung**: Lesen Sie diese Beschreibung und führen Sie die Anweisungen selbstständig durch.&#10;***&#10;&#10;### Programm abtippen und ausführen&#10;&#10;1. Falls noch nicht getan, öffnen Sie die Python-Datei `task.py` im Editor.&#10;1. Tippen Sie das folgende Programm (es besteht aus einem einzigen Befehl) mit Hilfe des Editors in die erste Zeile der Datei `task.py` ab:&#10;&#10;    ```python&#10;    print(&quot;Hallo, Python-Welt!&quot;)&#10;    ```&#10;&#10;    **Hinweis 1**: Sie können die Datei mit einem Doppelklick im Editor öffnen.&#10;&#10;    **Hinweis 2**: Versuchen Sie die Befehle **nicht** einfach zu kopieren und in den Editor einzufügen. Dieses Vorgehen hat zwei Schwächen:&#10;    * Manchmal wird ein Befehl nicht korrekt eingefügt, z.B. werden zusätzliche Leerzeichen hinzugefügt oder entfernt. Dies liegt an der&#10;    Formatierung des Befehls und führt dazu, das der Befehl nicht korrekt ausgeführt wird.&#10;    * Sie können sich unter Umständen durch das Kopieren und Einfügen von Befehlen weniger gut an die Befehle erinnern&#10;    (insbesondere dessen Schreibweise). Dies ist dann wichtig, wenn es darum geht eigene Programme zu schreiben und&#10;    die Befehle **selbstständig** und ohne Hilfe einzugeben.&#10;1. Führen Sie das Programm aus.&#10;1. Prüfen Sie ob in der Konsole `Hallo, Python-Welt!` angezeigt wird. Es sollte wie folgt aussehen:&#10;&#10;    ![](http://informatik.education/kswe/ginf/01/03/33/pycharm-edu-01.png)&#10;&#10;##### Zusammengefasst:&#10;&#10;&gt; Die **Konsole** ist ein Programm welches für die **Ausgabe** und **Eingabe** von **Daten** verwendet werden kann.&#10;Der Befehl `print()` kann dazu verwendet werden Daten in der Konsole auszugeben. Zwischen den beiden runden Klammern&#10;müssen die Daten für die Ausgabe notiert werden.&#10;&#10;In unserem Fall waren die Daten der Text `Hallo, Python-Welt!`. Möchte man Text ausgeben,&#10;dann muss man diesen mit **doppelten Anführungszeichen** (`&quot;`),&#10;d.h. ein doppeltes Anführungszeichen zu Beginn und ein doppeltes Anführungszeichen am Ende, zwischen&#10;den runden Klammern des `print()`-Befehls notieren. Die doppelten Anführungszeichen werden dabei nicht in der Konsole ausgegeben.&#10;&#10;### Programm erweitern&#10;&#10;Sie werden nun die neuen Konzepte anwenden, um das bestehende Programm zu erweitern.&#10;&#10;***&#10;2. **Arbeitsanweisung**: Verwenden Sie den `print()`-Befehl erneut um folgenden Text in der Konsole auszugeben:&#10;&#10;* Welches Jahr schreiben wir heute?&#10;&#10;**Hinweis:** Wir möchten uns angewöhnen, dass in jeder Zeile höchstens ein Befehl steht (damit alles übersichtlich bleibt).&#10;Notieren Sie deshalb mit Hilfe des Editors den **zweiten Befehl** in die **zweite** Zeile der Datei `task.py`.&#10;***&#10;&#10;Nun soll der `print()`-Befehl dazu verwendet werden eine Zahl auszugeben.&#10;&#10;***&#10;3. **Arbeitsanweisung**: Verwenden Sie den `print()`-Befehl erneut um die Zahl 2018 in der Konsole auszugeben. Notieren Sie den&#10;Befehl in die Datei `task.py` in die **dritte** Zeile.&#10;***&#10;&#10;### Abschluss&#10;&#10;Führen Sie das Programm nun aus. Die Ausgabe in der Konsole muss wie folgt aussehen:&#10;&#10;![](http://informatik.education/kswe/ginf/01/03/33/pycharm-edu-02.png)&#10;&#10;Fahren Sie mit der nächsten Arbeitsanweisung erst dann fort, falls Ihre Ausgabe **übereinstimmt**. Falls nicht, **überprüfen** Sie die Befehle und **korrigieren** Sie diese.&#10;&#10;***&#10;4. **Arbeitsanweisung**: Sie haben diesen Task erfolgreich abgeschlossen. Sie können diesen als erledigt markieren.&#10;Fahren Sie nun mit dem Abschnitt &quot;3.4 Zusammenfassung und Quiz&quot; auf dem Auftragsblatt fort.&#10;***&#10;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="index" value="2" />
+                            <option name="name" value="3.3 Das Hello-World-Programm" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepId" value="423953" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="testsText">
+                              <map>
+                                <entry key="tests.py" value="from test_helper import run_common_tests, failed, passed, get_answer_placeholders&#10;&#10;&#10;def test_answer_placeholders():&#10;    placeholders = get_answer_placeholders()&#10;    placeholder = placeholders[0]&#10;    if placeholder == &quot;&quot;:       # TODO: your condition here&#10;        passed()&#10;    else:&#10;        failed()&#10;&#10;&#10;if __name__ == '__main__':&#10;    print(&quot;Check Task&quot;)&#10;    # run_common_tests()&#10;    # test_answer_placeholders()       # TODO: uncomment test call&#10;&#10;&#10;" />
+                              </map>
+                            </option>
+                            <option name="updateDate" value="1535986170000" />
+                            <option name="taskFiles">
+                              <map>
+                                <entry key="task.py">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="userCreated" value="false" />
+                                      <option name="name" value="task.py" />
+                                      <option name="text" value="" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                          </EduTask>
+                        </list>
+                      </option>
+                      <option name="unitId" value="101720" />
+                    </Lesson>
+                  </list>
+                </option>
+              </Section>
+              <Section>
+                <option name="course" value="25107" />
+                <option name="customPresentableName" />
+                <option name="id" value="38071" />
+                <option name="index" value="2" />
+                <option name="name" value="auftrag-04" />
+                <option name="position" value="2" />
+                <option name="stepikChangeStatus" value="Up to date" />
+                <option name="updateDate" value="1535819196000" />
+                <option name="units">
+                  <list>
+                    <option value="101762" />
+                  </list>
+                </option>
+                <option name="items">
+                  <list>
+                    <Lesson>
+                      <option name="customPresentableName" />
+                      <option name="id" value="127618" />
+                      <option name="index" value="1" />
+                      <option name="name" value="1 Turtle Grafiken" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="updateDate" value="1535819196000" />
+                      <option name="taskList">
+                        <list>
+                          <EduTask>
+                            <option name="additionalFiles">
+                              <map />
+                            </option>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="MD" />
+                            <option name="descriptionText" value="## Grundlagen&#10;&#10;In diesem Task geht es darum, die grundlegenden Befehle kennenzulernen&#10;um die Schildkröte zu bewegen.&#10;&#10;***&#10;1. **Arbeitsanweisung**: Falls noch nicht erledigt, öffnen Sie die Datei ```task.py``` die zu diesem Task gehört.&#10;&#10;***&#10;&#10;In der Python-Datei sind bereits drei Code-Zeilen eingefügt:&#10;&#10;```python&#10;import turtle&#10;&#10;# Hier können Sie Ihre Befehle eintippen.&#10;&#10;turtle.done()&#10;```&#10;&#10;Der Befehl in der ersten Zeile bewirkt, dass Python den Turtle-Modus verwendet. Sie müssen dies nicht auswendig lernen und brauchen daran nichts zu ändern.&#10;&#10;### Kommentare&#10;&#10;Beim nächsten Befehl handelt es sich eigentlich um keinen &quot;richtigen&quot; Programmierbefehl, sondern um einen **Kommentar**.&#10;Ein Kommentar beginnt immer mit dem Symbol `#` (Doppelkreuz oder Raute genannt). Alles was in dieser Zeile folgt, wird von Python nicht ausgeführt.&#10;Kommentare können dazu verwendet werden um Notizen für den Programmierer über das Programm einzufügen. Dies kann hilfreich sein, falls man später wieder einmal das Programm betrachtet und&#10;sich nicht mehr erinnern kann, was das Programm macht. Man kann auch so wie oben gezeigt, Hilfestellungen als Kommentare verfassen.&#10;&#10;Der letzte Befehl dient dazu, dass der Turtle-Modus wieder beendet wird.&#10;&#10;***&#10;2. **Arbeitsanweisung**: Versuchen Sie herauszufinden wie man die Schildkröte bewegen, drehen und andere Aktionen durchführen kann. Verwenden Sie dazu folgende Befehle:&#10;&#10;* `turtle.forward(100)`&#10;* `turtle.back(50)`&#10;* `turtle.left(90)`&#10;* `turtle.right(90)`&#10;* `turtle.pendown()`&#10;* `turtle.penup()`&#10;* `turtle.shape(&quot;turtle&quot;)`&#10;&#10;Verwenden Sie die Python-Datei `task.py` um die Befehle einzutippen. Sie können den Kommentar löschen und die Befehle dafür eintippen, z.B. so:&#10;&#10;```python&#10;import turtle&#10;&#10;turtle.forward(100)&#10;turtle.left(100)&#10;&#10;turtle.done()&#10;```&#10;&#10;Notieren Sie auf dem Arbeitsblatt Ihre Beobachtungen.&#10;***&#10;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="index" value="1" />
+                            <option name="name" value="1.1 Grundlagen" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepId" value="424082" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="testsText">
+                              <map>
+                                <entry key="tests.py" value="from test_helper import run_common_tests, failed, passed, get_answer_placeholders&#10;&#10;&#10;def test_answer_placeholders():&#10;    placeholders = get_answer_placeholders()&#10;    placeholder = placeholders[0]&#10;    if placeholder == &quot;&quot;:       # TODO: your condition here&#10;        passed()&#10;    else:&#10;        failed()&#10;&#10;&#10;if __name__ == '__main__':&#10;    print(&quot;Check Task&quot;)&#10;    # run_common_tests()&#10;    # test_answer_placeholders()       # TODO: uncomment test call&#10;&#10;&#10;" />
+                              </map>
+                            </option>
+                            <option name="updateDate" value="1535819195000" />
+                            <option name="taskFiles">
+                              <map>
+                                <entry key="task.py">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="userCreated" value="false" />
+                                      <option name="name" value="task.py" />
+                                      <option name="text" value="import turtle&#10;&#10;# Hier können Sie Ihre Befehle eintippen.&#10;&#10;turtle.done()&#10;" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                          </EduTask>
+                          <EduTask>
+                            <option name="additionalFiles">
+                              <map />
+                            </option>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="MD" />
+                            <option name="descriptionText" value="## Einfache Figuren&#10;&#10;Typischerweise wird der Turtle-Modus dazu eingesetzt um einfache (und später komplexere) grafische Figuren zu zeichnen.&#10;Sie sollen in diesem Task ein paar einfache Figuren zeichnen, quasi als Einstieg in die Programmierung.&#10;Wir werden nicht das ganze Semester mit dem Turtle-Modus arbeiten, jedoch eignet sich dieser zu Beginn recht gut für die ersten Schritte.&#10;&#10;***&#10;1. **Arbeitsanweisung**: Falls noch nicht erledigt, öffnen Sie die Datei ```task.py``` die zu diesem Task gehört.&#10;&#10;***&#10;&#10;Verwenden Sie für die folgenden Aufgaben die Datei `task.py`. Sie können den Code nach der Bearbeitung einer Aufgabe wieder löschen.&#10;&#10;### Geometrische Figuren&#10;&#10;***&#10;2. **Arbeitsanweisung**: Zeichnen Sie ein Quadrat mit der Seitenlänge 50. Notieren Sie das Programm auf Ihrem Arbeitsblatt.&#10;&#10;***&#10;&#10;Nun umgekehrt: Sie sollen herausfinden was gezeichnet wird.&#10;&#10;***&#10;3. **Arbeitsanweisung**: Welche Figur entsteht, falls man das folgende Programm ausführt? Zeichnen Sie die Figur vor der Programmausführung auf das Arbeitsblatt!&#10;&#10;    ```python&#10;    import turtle&#10;&#10;    turtle.forward(100)&#10;    turtle.right(120)&#10;    turtle.forward(100)&#10;    turtle.right(120)&#10;    turtle.forward(100)&#10;    turtle.right(120)&#10;&#10;    turtle.done()&#10;    ```&#10;***&#10;&#10;Für die Schildkröte reicht es aus, die Befehle `turtle.forward()` und `turtle.right()` zu verwenden, um sich zu bewegen.&#10;&#10;***&#10;4. **Arbeitsanweisung**: Wieso reicht es aus die beiden oben genannt Befehle für die Bewegungen zu verwenden? Wie kann sich die Schildkröte trotzdem nach links drehen bzw. rückwärts gehen?&#10;***&#10;&#10;Hinweis: Sie können auch negative Zahlen als Wert verwenden.&#10;&#10;***&#10;5. **Arbeitsanweisung**: Schreiben Sie das folgende Programm so um, dass nur die Befehle `turtle.forward()` und `turtle.right()` verwendet werden. Die Figur muss dieselbe bleiben!&#10;&#10;    ```python&#10;    import turtle&#10;&#10;    turtle.back(100)&#10;    turtle.left(90)&#10;    turtle.back(50)&#10;    turtle.left(90)&#10;    turtle.back(100)&#10;    turtle.left(90)&#10;    turtle.back(50)&#10;    turtle.left(90)&#10;&#10;    turtle.done()&#10;    ```&#10;***&#10;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="index" value="2" />
+                            <option name="name" value="1.2 Einfache Figuren" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepId" value="424083" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="testsText">
+                              <map>
+                                <entry key="tests.py" value="from test_helper import run_common_tests, failed, passed, get_answer_placeholders&#10;&#10;&#10;def test_answer_placeholders():&#10;    placeholders = get_answer_placeholders()&#10;    placeholder = placeholders[0]&#10;    if placeholder == &quot;&quot;:       # TODO: your condition here&#10;        passed()&#10;    else:&#10;        failed()&#10;&#10;&#10;if __name__ == '__main__':&#10;    print(&quot;Check Task&quot;)&#10;    # run_common_tests()&#10;    # test_answer_placeholders()       # TODO: uncomment test call&#10;&#10;&#10;" />
+                              </map>
+                            </option>
+                            <option name="updateDate" value="1535819196000" />
+                            <option name="taskFiles">
+                              <map>
+                                <entry key="task.py">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="userCreated" value="false" />
+                                      <option name="name" value="task.py" />
+                                      <option name="text" value="import turtle&#10;&#10;# Hier können Sie Ihre Befehle eintippen.&#10;&#10;turtle.done()&#10;" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                          </EduTask>
+                        </list>
+                      </option>
+                      <option name="unitId" value="101762" />
+                    </Lesson>
+                  </list>
+                </option>
+              </Section>
+              <Section>
+                <option name="course" value="25107" />
+                <option name="customPresentableName" />
+                <option name="id" value="40823" />
+                <option name="index" value="3" />
+                <option name="name" value="auftrag-05" />
+                <option name="position" value="3" />
+                <option name="stepikChangeStatus" value="Up to date" />
+                <option name="updateDate" value="1535925113000" />
+                <option name="units">
+                  <list>
+                    <option value="106836" />
+                  </list>
+                </option>
+                <option name="items">
+                  <list>
+                    <Lesson>
+                      <option name="customPresentableName" />
+                      <option name="id" value="132663" />
+                      <option name="index" value="1" />
+                      <option name="name" value="1 Kreise und Polygone" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="updateDate" value="1535925113000" />
+                      <option name="taskList">
+                        <list>
+                          <EduTask>
+                            <option name="additionalFiles">
+                              <map />
+                            </option>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="MD" />
+                            <option name="descriptionText" value="## Kreise&#10;&#10;Sie sollen in diesem Task sehen, wie die Schildkröte einen Kreis zeichnen kann.&#10;&#10;***&#10;1. **Arbeitsanweisung**: Falls noch nicht erledigt, öffnen Sie die Datei ```task.py``` die zu diesem Task gehört.&#10;&#10;***&#10;&#10;In der Python-Datei sind bereits drei Code-Zeilen eingefügt:&#10;&#10;```python&#10;import turtle&#10;&#10;# Hier können Sie Ihre Befehle eintippen.&#10;&#10;turtle.done()&#10;```&#10;&#10;Die Schildkröte kennt den Befehl `circle()`. Diesem Befehl können **mehrere** Werte übergeben werden.&#10;&#10;***&#10;2. **Arbeitsanweisung**: Finden Sie heraus, was folgende Befehle bewirken.&#10;&#10;* `turtle.circle(50)`&#10;* `turtle.circle(100)`&#10;* `turtle.circle(100, 180)`&#10;* `turtle.circle(50, 90)`&#10;***&#10;&#10;**Hinweis:** Sie übergeben mehrere Werte an einen Befehl, in dem Sie diese durch ein Komma trennen.&#10;&#10;***&#10;3. **Arbeitsanweisung**: Schreiben Sie ein Programm, welches einen Dreiviertelkreis mit Radius 75 zeichnet.&#10;***&#10;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="index" value="1" />
+                            <option name="name" value="1.1 Kreise" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepId" value="434963" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="testsText">
+                              <map>
+                                <entry key="tests.py" value="from test_helper import run_common_tests, failed, passed, get_answer_placeholders&#10;&#10;&#10;def test_answer_placeholders():&#10;    placeholders = get_answer_placeholders()&#10;    placeholder = placeholders[0]&#10;    if placeholder == &quot;&quot;:       # TODO: your condition here&#10;        passed()&#10;    else:&#10;        failed()&#10;&#10;&#10;if __name__ == '__main__':&#10;    print(&quot;Ignore Tests&quot;)&#10;    # run_common_tests()&#10;    # test_answer_placeholders()       # TODO: uncomment test call&#10;&#10;&#10;" />
+                              </map>
+                            </option>
+                            <option name="updateDate" value="1535925113000" />
+                            <option name="taskFiles">
+                              <map>
+                                <entry key="task.py">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="userCreated" value="false" />
+                                      <option name="name" value="task.py" />
+                                      <option name="text" value="import turtle&#10;&#10;# Hier können Sie Ihre Befehle eintippen.&#10;&#10;turtle.done()&#10;" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                          </EduTask>
+                          <EduTask>
+                            <option name="additionalFiles">
+                              <map />
+                            </option>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="MD" />
+                            <option name="descriptionText" value="## Polygone&#10;&#10;Vielleicht ist Ihnen aufgefallen, dass die gezeichneten Kreise nicht sehr &quot;rund&quot; dargestellt werden. Sie werden in diesem Task sehen, warum dies so ist.&#10;&#10;***&#10;1. **Arbeitsanweisung**: Falls noch nicht erledigt, öffnen Sie die Datei ```task.py``` die zu diesem Task gehört.&#10;&#10;***&#10;&#10;In der Python-Datei sind bereits drei Code-Zeilen eingefügt:&#10;&#10;```python&#10;import turtle&#10;&#10;# Hier können Sie Ihre Befehle eintippen.&#10;&#10;turtle.done()&#10;```&#10;&#10;Die Schildkröte kennt den Befehl `circle()`. Diesem Befehl kann noch ein **weiterer** Wert übergeben werden. Man muss diesen Wert jedoch etwas speziell übergeben.&#10;&#10;***&#10;2. **Arbeitsanweisung**: Finden Sie heraus, was der zweite Wert (`steps=`) für eine Auswirkung auf den `circle()`-Befehl hat.&#10;&#10;* `turtle.circle(50, steps=3)`&#10;* `turtle.circle(50, steps=4)`&#10;* `turtle.circle(50, steps=5)`&#10;* `turtle.circle(50, steps=8)`&#10;* `turtle.circle(50, steps=12)`&#10;* `turtle.circle(50, steps=20)`&#10;* `turtle.circle(50, steps=100)`&#10;* `turtle.circle(50, steps=360)`&#10;***&#10;&#10;**Hinweis:** Achten Sie darauf, den zweiten Wert mit der speziellen Syntax korrekt einzutippen.&#10;&#10;***&#10;3. **Arbeitsanweisung**: Überlegen Sie sich welches Prinzip die Schildkröte verwendet, um Kreise zu zeichnen.&#10;&#10;**Tipps:**&#10;&#10;* Führen Sie folgendes Programm aus:&#10;&#10;    ```python&#10;    import turtle&#10;&#10;    turtle.circle(100, steps=25)&#10;    turtle.right(180)&#10;    turtle.circle(100)&#10;&#10;    turtle.done()&#10;    ```&#10;&#10;* Ein Polygon wird auch als Vieleck bezeichnet. Wie kann man mit einem Vieleck ein Polygon näherungsweise darstellen?&#10;&#10;***&#10;4. **Arbeitsanweisung (schwieriger!)**: Schreiben Sie ein Programm, welches einen Quadrat mit der Seitenlänge 50 zeichnet. Verwenden Sie den `circle()`-Befehl.&#10;***&#10;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="index" value="2" />
+                            <option name="name" value="1.2 Polygone" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepId" value="434964" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="testsText">
+                              <map>
+                                <entry key="tests.py" value="from test_helper import run_common_tests, failed, passed, get_answer_placeholders&#10;&#10;&#10;def test_answer_placeholders():&#10;    placeholders = get_answer_placeholders()&#10;    placeholder = placeholders[0]&#10;    if placeholder == &quot;&quot;:       # TODO: your condition here&#10;        passed()&#10;    else:&#10;        failed()&#10;&#10;&#10;if __name__ == '__main__':&#10;    print(&quot;Check Task&quot;)&#10;    # run_common_tests()&#10;    # test_answer_placeholders()       # TODO: uncomment test call&#10;&#10;&#10;" />
+                              </map>
+                            </option>
+                            <option name="updateDate" value="1535924827000" />
+                            <option name="taskFiles">
+                              <map>
+                                <entry key="task.py">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="userCreated" value="false" />
+                                      <option name="name" value="task.py" />
+                                      <option name="text" value="import turtle&#10;&#10;# Hier können Sie Ihre Befehle eintippen.&#10;&#10;turtle.done()&#10;" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                          </EduTask>
+                        </list>
+                      </option>
+                      <option name="unitId" value="106836" />
+                    </Lesson>
+                  </list>
+                </option>
+              </Section>
+              <Section>
+                <option name="course" value="25107" />
+                <option name="customPresentableName" />
+                <option name="id" value="40824" />
+                <option name="index" value="4" />
+                <option name="name" value="auftrag-06" />
+                <option name="position" value="4" />
+                <option name="stepikChangeStatus" value="Up to date" />
+                <option name="updateDate" value="1535986243000" />
+                <option name="units">
+                  <list>
+                    <option value="106837" />
+                  </list>
+                </option>
+                <option name="items">
+                  <list>
+                    <Lesson>
+                      <option name="customPresentableName" />
+                      <option name="id" value="132664" />
+                      <option name="index" value="1" />
+                      <option name="name" value="1 Variablen und Text" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="updateDate" value="1535986243000" />
+                      <option name="taskList">
+                        <list>
+                          <EduTask>
+                            <option name="additionalFiles">
+                              <map />
+                            </option>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="MD" />
+                            <option name="descriptionText" value="## Anzahl Zeichen&#10;&#10;Wir möchten uns in diesem Task damit beschäftigen, wie man die **Anzahl Zeichen eines Texts** mit Python ermitteln kann.&#10;Als Beispiel verwenden wir folgenden Text:&#10;&#10;`Kantonsschule Wettingen!`&#10;&#10;### Zeichenketten&#10;&#10;Wenn man mit Text arbeitet, dann verwendet man in der Informatik den Fachbegriff **Zeichenkette**.&#10;Eine Zeichenkette ist eine Folge von Zeichen, wie Sie dies bereits mit dem `print()`-Befehl kennengelernt haben:&#10;&#10;```python&#10;print(&quot;Hallo Welt!&quot;)&#10;```&#10;&#10;In diesem Beispiel wurde die Zeichenkette `Hallo Welt!` als Wert für den `print()`-Befehl verwendet.&#10;Eine Zeichenkette wird in Python stets mit **doppelten Anführungszeichen** notiert.&#10;&#10;***&#10;1. **Arbeitsanweisung**: Geben Sie den Text `Kantonsschule Wettingen!` in der Konsole aus. Verwenden Sie die Python-Datei `task.py`, welche zu diesem Task gehört.&#10;***&#10;&#10;### Wie viele Zeichen hat eine Zeichenkette?&#10;&#10;Diese Frage können wir beantworten, in dem wir jedes Zeichen einer Zeichenkette zählen. Wichtig, auch ein Leerschlag und ein Satzzeichen muss gezählt werden.&#10;Für die Zeichenkette `Kantonsschule Wettingen!` erhalten wir somit 24 Zeichen. Wir können diese Aufgabe dem Computer überlassen:&#10;&#10;```python&#10;len(&quot;Kantonsschule Wettingen!&quot;)&#10;```&#10;&#10;Der Befehl `len()` ist die Abkürzung für &quot;length&quot; und kann dazu verwendet werden, die Anzahl Zeichen einer Zeichenkette zu bestimmen.&#10;In der Informatik spricht man von der Länge einer Zeichenkette.&#10;&#10;***&#10;2. **Arbeitsanweisung**: Geben Sie in die zweite Zeile der gleichen Python-Datei den neuen Befehl ein. Führen Sie das Programm aus. Was beobachten Sie? Wird die Länge der Zeichenkette in der Konsole angezeigt?&#10;***&#10;&#10;##### Zusammengefasst:&#10;&#10;&gt; Der Befehl `len()` kann dazu verwendet werden, die Länge einer Zeichenkette zu bestimmen. Der Befehl erwartet dabei einen Wert in Form einer Zeichenkette, wie zum Beispiel `&quot;Hallo Welt!&quot;`. Dieser wird zwischen den Klammern notiert, d.h. zum Beispiel wie folgt `len(&quot;Hallo Welt!&quot;)`.&#10;&#10;Im nächsten Task erfahren Sie, wie Sie die Länge einer Zeichenkette in der Konsole ausgeben können.&#10;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="index" value="1" />
+                            <option name="name" value="1.1 Anzahl Zeichen" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepId" value="434965" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="testsText">
+                              <map>
+                                <entry key="tests.py" value="from test_helper import run_common_tests, failed, passed, get_answer_placeholders&#10;&#10;&#10;def test_answer_placeholders():&#10;    placeholders = get_answer_placeholders()&#10;    placeholder = placeholders[0]&#10;    if placeholder == &quot;&quot;:       # TODO: your condition here&#10;        passed()&#10;    else:&#10;        failed()&#10;&#10;&#10;if __name__ == '__main__':&#10;    print(&quot;Check Task&quot;)&#10;    #run_common_tests()&#10;    # test_answer_placeholders()       # TODO: uncomment test call&#10;&#10;&#10;" />
+                              </map>
+                            </option>
+                            <option name="updateDate" value="1535986241000" />
+                            <option name="taskFiles">
+                              <map>
+                                <entry key="task.py">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="userCreated" value="false" />
+                                      <option name="name" value="task.py" />
+                                      <option name="text" value="" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                          </EduTask>
+                          <EduTask>
+                            <option name="additionalFiles">
+                              <map />
+                            </option>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="MD" />
+                            <option name="descriptionText" value="## Variablen&#10;&#10;Sie werden sich in diesem Task mit dem Konzept einer Variablen auseinandersetzen&#10;und den Umgang in Python damit trainieren.&#10;&#10;### Länge einer Zeichenkette ausgeben&#10;&#10;Der Befehl `len()` bestimmt die Länge einer Zeichenkette. Um diesen in der Konsole auszugeben,&#10;können wir die ermittelte Länge in einer Variablen wie folgt speichern:&#10;&#10;```python&#10;laenge = len(&quot;Kantonsschule Wettingen!&quot;)&#10;```&#10;&#10;*Wie ist diese Codezeile zu lesen?*&#10;&#10;Der Befehl `len(&quot;Kantonsschule Wettingen&quot;)` bestimmt die Länge der Zeichenkette&#10;und weist das Ergebnis, das heisst die Länge, der Variablen mit dem Namen `laenge` zu.&#10;&#10;***&#10;1. **Arbeitsanweisung**: Geben Sie den oben genannten Befehl in die Python-Datei `task.py` ein. Führen Sie das Programm aus. Wird die Länge in der Konsole angezeigt?&#10;***&#10;&#10;In der Konsole sollte die Länge noch nicht sichtbar sein.&#10;Wir haben nun eine Variable verwendet, um einen Wert (in unserem Beispiel die Länge der Zeichenkette) zu **speichern**.&#10;Eine Variable ist somit ein **Speicherplatz** für **Werte**. Dabei wird der Speicherplatz&#10;mit einem **Namen** versehen.&#10;&#10;Nun möchten wir die Länge in der Konsole ausgeben. Dies kann mit folgender Codezeile geschehen:&#10;&#10;```python&#10;print(laenge)&#10;```&#10;&#10;***&#10;2. **Arbeitsanweisung**: Geben Sie nun diesen Befehl in die zweite Zeile der Python-Datei ein und führen Sie das Programm aus. Wie lautet die Ausgabe?&#10;***&#10;&#10;Das komplette Programm sollte nun wie folgt aussehen:&#10;&#10;```&#10;laenge = len(&quot;Kantonsschule Wettingen!&quot;)&#10;print(laenge)&#10;```&#10;&#10;Die zweite Zeile erledigt die beiden folgenden Dinge:&#10;&#10;* Es wird der **Wert** in der Variablen mit dem **Namen** `laenge` ermittelt.&#10;* Der ermittelte Wert wird dem Befehl `print()` übergeben. Dieser zeigt dann den Wert in der Konsole an.&#10;&#10;Man kann somit dem `print()`-Befehl nicht nur direkt einen Wert übergeben (wie z.B. in `print(&quot;Hallo Welt&quot;)`),&#10;sondern auch eine Variable (wie z.B. in `print(laenge)`).  Wenn man den Wert einer Variable ermittelt,&#10;dann spricht man vom **Auslesen** einer Variablen.&#10;&#10;***&#10;3. **Arbeitsanweisung**: Erweitern Sie das Programm. Es soll folgende Ausgabe in der Konsole erscheinen:&#10;&#10;    ```&#10;    Zeichenkette: Kantonsschule Wettingen&#10;    Länge:&#10;    24&#10;    ```&#10;&#10;    Ignorieren Sie die farblichen Hervorhebungen.&#10;&#10;***&#10;&#10;Bevor man eine Variable auslesen kann, muss man der Variable einen Wert zuweisen.&#10;Die allererste Zuweisung nennt man *Initialisierung*.&#10;&#10;***&#10;4. **Arbeitsanweisung**: Betrachten Sie das folgende Programm. Wie wird die Ausgabe lauten, wenn man das Programm ausführt?&#10;&#10;    ```python&#10;    anzahlZeichen = len(&quot;abcd&quot;)&#10;    print(anzahlZechen)&#10;    ```&#10;&#10;Formulieren Sie zunächst Ihre Vermutung. Tippen Sie das Programm dann ab und führen Sie es aus. Sie können dieselbe Python-Datei verwenden.&#10;***&#10;&#10;##### Zusammengefasst:&#10;&#10;&gt; Eine **Variable** ist ein Speicherplatz mit einem Namen. Im Speicherplatz&#10;kann ein Wert gespeichert werden.&#10;Der Name &quot;Variable&quot; betont, dass sich der Wert im Speicherplatz während der Ausführung des Programms&#10;ändern darf. Der Wert kann variieren.&#10;Wir können einer Variablen einen Wert zuweisen, in dem wir den **Zuweisungsoperator** verwenden.&#10;Dies ist in Python das `=` (Gleichheitszeichen). Die allerste Zuweisung nennen wir **Initialisierung**.&#10;&#10;&#10;&#10;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="index" value="2" />
+                            <option name="name" value="1.2 Variablen" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepId" value="434966" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="testsText">
+                              <map>
+                                <entry key="tests.py" value="from test_helper import run_common_tests, failed, passed, get_answer_placeholders&#10;&#10;&#10;def test_answer_placeholders():&#10;    placeholders = get_answer_placeholders()&#10;    placeholder = placeholders[0]&#10;    if placeholder == &quot;&quot;:       # TODO: your condition here&#10;        passed()&#10;    else:&#10;        failed()&#10;&#10;&#10;if __name__ == '__main__':&#10;    print(&quot;Check Task&quot;)&#10;    #run_common_tests()&#10;    # test_answer_placeholders()       # TODO: uncomment test call&#10;&#10;&#10;" />
+                              </map>
+                            </option>
+                            <option name="updateDate" value="1535986242000" />
+                            <option name="taskFiles">
+                              <map>
+                                <entry key="task.py">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="userCreated" value="false" />
+                                      <option name="name" value="task.py" />
+                                      <option name="text" value="" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                          </EduTask>
+                          <EduTask>
+                            <option name="additionalFiles">
+                              <map />
+                            </option>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="MD" />
+                            <option name="descriptionText" value="## Einzelne Zeichen einer Zeichenkette&#10;&#10;In diesem Task werden Sie auf einzelne Zeichen einer Zeichenkette zugreifen&#10;und eine Variante des `print()`-Befehls kennenlernen.&#10;&#10;### Das erste Zeichen einer Zeichenkette auslesen&#10;&#10;Sie können mit folgender Notation auf das erste Zeichen einer Zeichenkette zugreifen:&#10;&#10;```python&#10;meineSchule = &quot;KSWE!&quot;&#10;erstesZeichen = meineSchule[0]&#10;print(erstesZeichen)&#10;```&#10;&#10;Neu ist hier die zweite Zeile. Hier werden direkt nach einer Variablen zwei eckige Klammern verwendet.&#10;Zusammen mit der Zahl zwischen den Klammern bewirkt diese Zeile, dass in der Variablen `erstesZeichen`&#10;das **erste Zeichen** der Zeichenkette gespeichert wird.&#10;&#10;***&#10;1. **Arbeitsanweisung**: Tippen Sie das Programm in die Python-Datei `task.py` ab und führen Sie das Programm aus. Wie lautet die Ausgabe in der Konsole?&#10;***&#10;&#10;**Hinweis:** Suchen Sie ggf. im Internet wie Sie die eckigen Klammern eingeben können.&#10;&#10;### Warum die Zahl 0 für das erste Zeichen?&#10;&#10;In der Informatik beginnt man beim Zählen häufig mit der 0. So ist es auch in der Programmiersprache Python.&#10;Man kann den Aufbau einer Zeichenkette, z.B. `KSWE!` wie folgt darstellen:&#10;&#10;| K | S | W | E | ! |&#10;|---|---|---|---|---|&#10;| 0 | 1 | 2 | 3 | 4 |&#10;&#10;Man sagt: das Zeichen `K` hat den **Index** 0, das zweite Zeichen (`S`) hat den Index 1, das dritte Zeichen hat den Index 2, usw.&#10;&#10;***&#10;2. **Arbeitsanweisung**: Erweitern Sie das Programm, sodass das Zeichen mit dem Index 2 und das letzte Zeichen in der Konsole ausgeben wird.&#10;***&#10;&#10;### Alles in einer Zeile ausgeben&#10;&#10;Der `print()`-Befehl wurde bisher immer so verwendet, dass jeder Befehl die Zeichenkette in einer **neuen** Zeile in der **Konsole** ausgibt.&#10;Sie können jedoch auch mehrere Zeichenketten direkt in einer Zeile ausgeben und so kombinieren:&#10;&#10;```python&#10;meineSchule = &quot;KSWE!&quot;&#10;erstesZeichen = meineSchule[0]&#10;zweitesZeichen = meineSchule[1]&#10;print(meineSchule, erstesZeichen, zweitesZeichen)&#10;```&#10;&#10;Es können beliebig viele Zeichenketten dem `print()`-Befehl übergeben werden. Trennen Sie diese durch ein Komma.&#10;&#10;***&#10;3. **Arbeitsanweisung**: Passen Sie das Programm nun so an, dass die einzelnen Buchstaben alle in **einer** Zeile ausgegeben werden.&#10;***&#10;&#10;In der folgenden Arbeitsanweisung geht es darum einen Fehler im Programm zu finden und diesen zu korrigieren.&#10;&#10;***&#10;4. **Arbeitsanweisung**: Tippen Sie folgendes Programm in eine **neue** Python-Datei mit dem Namen `fehler.py` ab. Sie können eine neue Python-Datei hinzufügen, in dem Sie einen Rechtsklick auf den Task durchführen und dann `New &gt; Python File` auswählen:&#10;&#10;    ```python&#10;    ausgabe = &quot;Hallo, Python-Welt!&quot;&#10;    laenge = len(ausgabe)&#10;    print(laenge)&#10;    print(&quot;Das erste Zeichen:&quot;, ausgabe[0])&#10;    print(&quot;Das letzte Zeichen:&quot;, ausgabe[laenge])&#10;    ```&#10;    Führen Sie das Programm aus. Es sollte eine Fehlermeldung erscheinen. Wodurch könnte der Fehler verursacht werden?&#10;&#10;**Tipps:**&#10;* Zählen Sie die Anzahl Zeichen in der Zeichenkette der Variablen `ausgabe`. Erinnern Sie sich an die Zählweise in Python (Index).&#10;***&#10;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="index" value="3" />
+                            <option name="name" value="1.3 Einzelne Zeichen einer Zeichenkette" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepId" value="434967" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="testsText">
+                              <map>
+                                <entry key="tests.py" value="from test_helper import run_common_tests, failed, passed, get_answer_placeholders&#10;&#10;&#10;def test_answer_placeholders():&#10;    placeholders = get_answer_placeholders()&#10;    placeholder = placeholders[0]&#10;    if placeholder == &quot;&quot;:       # TODO: your condition here&#10;        passed()&#10;    else:&#10;        failed()&#10;&#10;&#10;if __name__ == '__main__':&#10;    print(&quot;Check Task&quot;)&#10;    #run_common_tests()&#10;    # test_answer_placeholders()       # TODO: uncomment test call&#10;&#10;&#10;" />
+                              </map>
+                            </option>
+                            <option name="updateDate" value="1535986243000" />
+                            <option name="taskFiles">
+                              <map>
+                                <entry key="task.py">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="userCreated" value="false" />
+                                      <option name="name" value="task.py" />
+                                      <option name="text" value="" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                          </EduTask>
+                        </list>
+                      </option>
+                      <option name="unitId" value="106837" />
+                    </Lesson>
+                  </list>
+                </option>
+              </Section>
+              <Section>
+                <option name="course" value="25107" />
+                <option name="customPresentableName" />
+                <option name="id" value="47701" />
+                <option name="index" value="5" />
+                <option name="name" value="auftrag-08" />
+                <option name="position" value="5" />
+                <option name="stepikChangeStatus" value="Up to date" />
+                <option name="updateDate" value="1536663952000" />
+                <option name="units">
+                  <list>
+                    <option value="118325" />
+                  </list>
+                </option>
+                <option name="items">
+                  <list>
+                    <Lesson>
+                      <option name="customPresentableName" />
+                      <option name="id" value="144125" />
+                      <option name="index" value="1" />
+                      <option name="name" value="1 Grundrechenarten" />
+                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="updateDate" value="1536663952000" />
+                      <option name="taskList">
+                        <list>
+                          <EduTask>
+                            <option name="additionalFiles">
+                              <map />
+                            </option>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="MD" />
+                            <option name="descriptionText" value="## Addition und Subtraktion&#10;&#10;In einer Variablen können Sie nicht nur eine Zeichenkette abspeichern,&#10;sondern auch Zahlen. Zahlen unterscheiden sich von Zeichenketten in der Notation:&#10;&#10;```python&#10;eineZahl = 13&#10;eineZeichenkette = &quot;Meine Katze Simba&quot;&#10;```&#10;&#10;Zahlen werden **nie** mit einem doppelten Anführungszeichen notiert,&#10;sondern &quot;direkt&quot;, wie in Zeile 1, verwendet.&#10;&#10;***&#10;1. **Arbeitsanweisung**: Initialisieren Sie eine Variable mit dem&#10;Namen `magischeZahl` mit der Zahl 42. Führen Sie das Programm dann aus.&#10;***&#10;&#10;*Wieso sehen Sie keine Ausgabe in der Konsole?*&#10;&#10;Obwohl Ihr Programm im Hintergrund den Wert richtig in der Variablen gespeichert hat,&#10;bleibt der Wert während der Ausführung unsichtbar. Möchten wir den in unserer Variablen&#10;gespeicherten Wert in der Konsole ausgeben, müssen wir diesen Schritt ebenfalls als Befehl hinzufügen.&#10;&#10;***&#10;2. **Arbeitsanweisung**: Geben Sie den Inhalt der Variablen&#10;`magischeZahl` in der Konsole aus.&#10;***&#10;&#10;Wie mit einem Taschenrechner können Sie auch in Python die Grundrechenarten verwenden. Sie benötigen&#10;dafür neue Programmierkonzepte:&#10;&#10;* `+` (Addition)&#10;* `-` (Subtraktion)&#10;* `*` (Multiplikation)&#10;* `/` (Division)&#10;&#10;### Addition&#10;&#10;Sie können zwei Zahlen addieren und das Ergebnis in einer Variablen wie folgt speichern:&#10;&#10;```python&#10;summe = 1 + 3&#10;print(summe)&#10;```&#10;&#10;Führt man dieses Programm nun aus, dann wird zunächst die Addition `1 + 3`&#10;auf der **rechten** Seite des Gleichheitszeichen (1. Zeile) durchgeführt.&#10;Das Ergebnis wird dann in der Variablen `summe` gespeichert. In der zweiten Zeile wird&#10;der Inhalt der Variable `summe` ausgegeben.&#10;&#10;***&#10;3. **Arbeitsanweisung**: Passen Sie Ihr Programm nun an. Fügen Sie eine Addition hinzu.&#10;In der ersten Zeile soll in der Variablen `magischeZahl` die Summe aus 42 und 2 gespeichert&#10;werden. Lassen Sie Python die Summe berechnen und speichern! Führen Sie das Programm aus.&#10;Prüfen Sie die Ausgabe in der Konsole.&#10;***&#10;&#10;### Subtraktion&#10;&#10;Ihr Programm sollte nun wie folgt aussehen:&#10;&#10;```python&#10;magischeZahl = 42 + 2&#10;print(magischeZahl)&#10;```&#10;&#10;Sie können einer Variablen jederzeit einen **neuen** Wert zuweisen.&#10;Dabei wird der alte Wert **überschrieben**.&#10;&#10;***&#10;4. **Arbeitsanweisung**: Erweitern Sie das Programm, sodass es wie folgt aussieht:&#10;&#10;    ```python&#10;    magischeZahl = 42 + 2&#10;    magischeZahl = 3&#10;    print(magischeZahl)&#10;    ```&#10;&#10;    Führen Sie das Programm nun aus. Wie lautet die Ausgabe?&#10;***&#10;&#10;Sie können eine Variable somit immer wiederverwenden und einen neuen Wert zuweisen.&#10;&#10;Manchmal möchte man jedoch den Wert einer Variablen nicht direkt überschreiben,&#10;sondern den Wert vor dem Überschreiben noch verwenden. Dies können Sie wie folgt erreichen:&#10;&#10;```python&#10;magischeZahl = 42 + 2&#10;print(magischeZahl)&#10;magischeZahl = magischeZahl - 6&#10;print(magischeZahl)&#10;```&#10;&#10;*Wie ist die dritte Zeile zu verstehen?*&#10;&#10;Diese Zeile wird von **rechts** nach **links** abgearbeitet.&#10;Zunächst wird der Wert der Variablen `magischeZahl` ausgelesen.&#10;Dann wird von diesem Wert sechs subtrahiert. Das Ergebnis wird dann erneut&#10;in der Variablen `magischeZahl` abgespeichert und somit der alte Wert überschrieben.&#10;&#10;***&#10;5. **Arbeitsanweisung**: Passen Sie Ihr Programm an, sodass es folgende Zeilen beinhaltet:&#10;&#10;    ```python&#10;    magischeZahl = 42 + 2&#10;    print(magischeZahl)&#10;    magischeZahl = magischeZahl - 6&#10;    print(magischeZahl)&#10;    ```&#10;&#10;    Führen Sie das Programm nun aus. Erklären Sie die Ausgabe in der Konsole.&#10;    Welche Zahlen werden ausgegeben und warum?&#10;***&#10;&#10;Nun ein weitere Abschlussaufgabe.&#10;&#10;***&#10;6. **Arbeitsanweisung**: Passen Sie Ihr Programm an, sodass das Ergebnis der Subtraktion&#10;in einer **neuen** Variablen gespeichert wird. Geben Sie den Inhalt der neuen Variablen&#10;am Ende des Programms ebenfalls in der Konsole aus. Die Ausgabe in der Konsole muss&#10;wie folgt aussehen:&#10;&#10;    ```python&#10;    44&#10;    44&#10;    39&#10;    ```&#10;&#10;***&#10;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="index" value="1" />
+                            <option name="name" value="1.1 Addition und Subtraktion" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepId" value="453343" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="testsText">
+                              <map>
+                                <entry key="tests.py" value="from test_helper import run_common_tests, failed, passed, get_answer_placeholders&#10;&#10;&#10;def test_answer_placeholders():&#10;    placeholders = get_answer_placeholders()&#10;    placeholder = placeholders[0]&#10;    if placeholder == &quot;&quot;:       # TODO: your condition here&#10;        passed()&#10;    else:&#10;        failed()&#10;&#10;&#10;if __name__ == '__main__':&#10;    run_common_tests()&#10;    # test_answer_placeholders()       # TODO: uncomment test call&#10;&#10;&#10;" />
+                              </map>
+                            </option>
+                            <option name="updateDate" value="1536663947000" />
+                            <option name="taskFiles">
+                              <map>
+                                <entry key="task.py">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="userCreated" value="false" />
+                                      <option name="name" value="task.py" />
+                                      <option name="text" value="" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                          </EduTask>
+                          <EduTask>
+                            <option name="additionalFiles">
+                              <map />
+                            </option>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="MD" />
+                            <option name="descriptionText" value="## Multiplikation und Division&#10;&#10;Neben der Addition und Subtraktion können Sie in Python natürlich auch multiplizieren und dividieren.&#10;&#10;### Multiplikation&#10;&#10;Sie können zwei Zahlen mit Hilfe von Python multiplizieren, in dem Sie das **Sternchen** Symbol `*` verwenden.&#10;Im englischen Sprachraum wird dieses Symbol als Asterisk bezeichnet. Folgendes Programm multipliziert&#10;die Zahlen 2 und 3 miteinander und speichert das Ergebnis in der Variablen `ergebnis` ab:&#10;&#10;```python&#10;ergebnis = 2 * 3&#10;```&#10;&#10;***&#10;1. **Arbeitsanweisung**: Wie würde die Ausgabe in der Konsole lauten, falls man das obige Programm ausführen würde?&#10;***&#10;&#10;Sie sollen nun am Programm aus dem vorherigen Task weiterarbeiten. Eine Vorlage befindet sich&#10;bereits in der Datei `task.py`. In der Datei gibt es auch zwei Kommentare, welche Sie nun ersetzen sollen.&#10;&#10;***&#10;2. **Arbeitsanweisung**: Die vierte Zeile (der Kommentar) soll durch eine Multiplikation ersetzt werden. Der Wert in der Variablen `magischeZahl`&#10;soll mit 3 multipliziert werden und erneut in der Variablen `magischeZahl` gespeichert werden. Führen Sie das Programm aus. Wie lautet die Ausgabe?&#10;***&#10;&#10;### Divison&#10;&#10;Neben der Multiplikation können sich natürlich auch eine Division durchführen.&#10;Dabei können Sie als Zeichen den Schrägstrich `/` (der englische Begriff dafür&#10;ist Slash) wie folgt verwenden.&#10;&#10;```&#10;berechnung = 256 / 2&#10;print(berechnung)&#10;```&#10;&#10;***&#10;3. **Arbeitsanweisung**: Erstellen Sie eine neue Python-Datei mit dem Namen `division`&#10;(Rechtsklick auf den Task, dann `New` und dann `Python File` auswählen). Tippen Sie das Programm ab&#10;und führen Sie es aus. Wie lautet die Ausgabe?&#10;***&#10;&#10;In der letzten Anweisung haben Sie eine Division durchgeführt und dabei als Ergebnis eine&#10;Zahl mit einem Punkt erhalten: `128.0`. Eine Kommazahl wird in Python durch den Punkt dargestellt.&#10;Die Division wird ähnlich wie in der Mathematik durchgeführt. Es gibt jedoch die eine oder andere Einschränkung. Versuchen Sie&#10;eine Einschränkung nun herauszufinden.&#10;&#10;***&#10;4. **Arbeitsanweisung**: Passen Sie das Programm in der Datei `division.py` nun an.&#10;Führen Sie folgende Divisionen durch und geben Sie deren Ergebnis in der Konsole aus.&#10;Notieren Sie **zuerst** Ihre Erwartungen an die Ergebnisse und prüfen Sie diese&#10;dann mit der Ausgabe.&#10;&#10;* 3 dividiert durch 4&#10;* 1 dividiert durch 3&#10;* 1 dividiert durch 2&#10;* 1 dividiert durch 9&#10;***&#10;&#10;Vervollständigen wir nun noch das Programm in der Datei `task.py` mit einer letzten Division.&#10;&#10;***&#10;5. **Arbeitsanweisung**: Ersetzen Sie den Kommentar in der 6. Zeile durch eine Division.&#10;Der Inhalt der Variablen `magischeZahl` soll durch drei dividiert werden und wieder&#10;in der Variablen `magischeZahl` gespeichert werden.&#10;&#10;    Führen Sie das Programm zum Schluss aus. Was stellen Sie fest? Magic? ;-)&#10;***&#10;&#10;Nun geht es noch darum die Ausgabe zu verbessern. Sie können wie im Auftrag 06&#10;mit Hilfe von `print()` mehrere Werte in einer Zeile ausgeben und dabei&#10;Variablen verwenden. Ein Beispiel:&#10;&#10;```python&#10;meinAlter = 30&#10;print(&quot;Ich bin&quot;, meinAlter, &quot;Jahre alt&quot;.)&#10;```&#10;&#10;Wenn Sie dieses Programm ausführen, dann wird in der Konsole folgendes ausgegeben:&#10;&#10;Ich bin 30 Jahre alt.&#10;&#10;***&#10;6. **Arbeitsanweisung**: Passen Sie nun das Programm in der Datei `task.py` nochmals an,&#10;um die Ausgabe etwas schöner zu gestalten. Die Ausgabe soll wie folgt aussehen:&#10;&#10;    ```python&#10;    Ihre gewählte Zahl: 42&#10;    Die Zahl nach der magischen Rechnung: 42.0&#10;    ```&#10;&#10;    Farbliche Hervorhebungen können Sie **ignorieren**.&#10;&#10;    Wählen Sie eine weitere Zahl (ersetzen Sie die Zahl 42) und führen Sie das Programm damit aus. Ist Ihre Zahl auch &quot;magisch&quot;?&#10;***&#10;&#10;&#10;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="index" value="2" />
+                            <option name="name" value="1.2 Multiplikation und Division" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepId" value="453344" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="testsText">
+                              <map>
+                                <entry key="tests.py" value="from test_helper import run_common_tests, failed, passed, get_answer_placeholders&#10;&#10;&#10;def test_answer_placeholders():&#10;    placeholders = get_answer_placeholders()&#10;    placeholder = placeholders[0]&#10;    if placeholder == &quot;&quot;:       # TODO: your condition here&#10;        passed()&#10;    else:&#10;        failed()&#10;&#10;&#10;if __name__ == '__main__':&#10;    run_common_tests()&#10;    # test_answer_placeholders()       # TODO: uncomment test call&#10;&#10;&#10;" />
+                              </map>
+                            </option>
+                            <option name="updateDate" value="1536663949000" />
+                            <option name="taskFiles">
+                              <map>
+                                <entry key="task.py">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="userCreated" value="false" />
+                                      <option name="name" value="task.py" />
+                                      <option name="text" value="magischeZahl = 42&#10;print(magischeZahl)&#10;magischeZahl = magischeZahl + 2&#10;# Diesen Kommentar löschen und die Multiplikation einfügen&#10;magischeZahl = magischeZahl - 6&#10;# Diesen Kommentar löschen und die Divison einfügen&#10;print(magischeZahl)&#10;" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                          </EduTask>
+                          <EduTask>
+                            <option name="additionalFiles">
+                              <map />
+                            </option>
+                            <option name="customPresentableName" />
+                            <option name="descriptionFormat" value="MD" />
+                            <option name="descriptionText" value="## Weitere Rechenarten&#10;&#10;Erinnern Sie sich nochmals an Ihre Zeit in der Primarschule. Was glauben Sie, wie&#10;antworten die Schülerinnen und Schüler auf die Frage:&#10;&#10;&quot;Wie viel ist 11 geteilt durch 2?&quot;&#10;&#10;Zum Beginn der Schulzeit werden die Schüler vermutlich sagen &quot;geht nicht&quot;.&#10;Im späteren Verlauf ändert sich meist Ihre Aussage zu, &quot;geht doch, aber es gibt einen Rest&quot;.&#10;Sie geben dann als Antwort:&#10;&#10;&quot;11 geteilt durch 2 ist 5 mit Rest 1&quot;&#10;&#10;Sie können auch Python auf diese Art und Weise rechnen lassen, benötigen dafür&#10;jedoch zwei neue Programmierkonzepte: die **ganzzahlige Division** und **die Berechnung des Rests einer ganzzahligen Division**.&#10;&#10;## Ganzzahlige Division&#10;&#10;Sie können in Python die Aufgabe &quot;Was gibt 11 geteilt durch 2&quot; wie oben beschrieben nur in zwei Schritten lösen.&#10;Im ersten Schritt wird folgendes berechnet:&#10;&#10;```python&#10;b0 = 11 // 2&#10;print(b0)&#10;```&#10;&#10;Der doppelte Slash `//` sorgt dafür, dass die Zahl 11 durch 2 dividiert&#10;wird, jedoch ohne eine Kommazahl zu generieren. Es wird nur der ganze Teil des&#10;Ergebnis berechnet. Im Beispiel wäre dies wie folgt:&#10;&#10;11 dividiert durch 2 ergibt &quot;eigentlich&quot; 5.5. Nun wird jedoch nur der ganze Teil der Zahl behalten, das heisst 5.&#10;&#10;Diese Art der Division nennt man **ganzzahlige Division**.&#10;&#10;***&#10;1. **Arbeitsanweisung**: Tippen Sie das Programm in die Python-Datei `task.py` ab und führen Sie das Programm aus.&#10;Wie lautet die Ausgabe? Stellen Sie einen Unterschied bei der Ausgabe der Zahl fest?&#10;Vergleichen Sie mit den Divisonen aus dem Task 1.2 (Multiplikation und Division)!&#10;***&#10;&#10;Wichtig: Sie müssen den doppelten Slash verwenden, sonst erhalten Sie die &quot;gewöhnliche&quot; Division mit Kommazahlen.&#10;&#10;## Rest berechnen&#10;&#10;Sie haben nun den ersten Teil der Aufgabe &quot;Wie viel ist 11 geteilt durch 2?&quot; gelöst.&#10;Nun sollen Sie noch den Rest berechnen. Dafür benötigen Sie das **Prozentzeichen** `%`.&#10;Dieses Zeichen bewirkt die Berechnung des Rests. Der Fachbegriff in der Informatik lautet&#10;**Modulo-Operator**, da Modulo den Rest einer ganzzahligen Division bezeichnet.&#10;&#10;***&#10;2. **Arbeitsanweisung**: Verwenden Sie nun den Modulo-Operator um den Rest zu berechnen.&#10;Erweitern Sie das Programm, so dass es wie folgt aussieht:&#10;&#10;    ```python&#10;    ergebnis = 11 // 2&#10;    print(ergebnis)&#10;    r0 = 11 % 2&#10;    print(r0)&#10;    ```&#10;&#10;Führen Sie das Programm dann aus und beobachten Sie die Ausgabe.&#10;&#10;***&#10;&#10;Der Modulo-Operator liefert Ihnen nicht das Ergebnis von 11 dividiert durch 2,&#10;sondern den Rest dieser ganzzahligen Division.&#10;&#10;Sie sollen nun noch **drei** weitere ganzzahlige Divisionen und Restberechnungen durchführen.&#10;&#10;***&#10;3. **Arbeitsanweisung**: Erweitern Sie das Programm um folgende Zeilen:&#10;&#10;    ```python&#10;    ergebnis = ergebnis // 2&#10;    print(ergebnis)&#10;    r1 = ergebnis % 2&#10;    print(r1)&#10;    ```&#10;&#10;    Betrachten Sie das Ergebnis in der Konsole und erklären Sie die Ausgabe der Zahlen.&#10;    Welche Zeile in Ihrem Programm sorgt für welche Ausgabe?&#10;***&#10;&#10;Sie wiederholen dies nun noch zwei Mal.&#10;&#10;***&#10;4. **Arbeitsanweisung**: Erweitern Sie das Programm im gleichen Stil noch zwei Mal:&#10;&#10;    ```python&#10;    ergebnis = ergebnis // 2&#10;    print(ergebnis)&#10;    r2 = ergebnis % 2&#10;    print(r2)&#10;&#10;    # Hier müssen Sie das Programm noch eimal erweitern!&#10;    ```&#10;&#10;    Führen Sie das Programm abschliessend aus.&#10;***&#10;&#10;Eine letzte Arbeitsanweisung:&#10;&#10;***&#10;4. **Arbeitsanweisung**:&#10;Betrachten Sie die Ausgabe des letzten Programms. Notieren Sie nur die&#10;Zahlen der Restberechnung und zwar von unten nach oben. Kommt Ihnen diese Zahl bekannt vor?&#10;&#10;**Hinweis:** Versuchen Sie doch diese Zahl als Dualzahl zu sehen und in das Dezimalsystem umzuwandeln.&#10;***&#10;" />
+                            <option name="feedbackLink">
+                              <FeedbackLink>
+                                <option name="link" />
+                                <option name="type" value="STEPIK" />
+                              </FeedbackLink>
+                            </option>
+                            <option name="index" value="3" />
+                            <option name="name" value="1.3 Weitere Rechenarten" />
+                            <option name="status" value="Unchecked" />
+                            <option name="stepId" value="453345" />
+                            <option name="stepikChangeStatus" value="Up to date" />
+                            <option name="testsText">
+                              <map>
+                                <entry key="tests.py" value="from test_helper import run_common_tests, failed, passed, get_answer_placeholders&#10;&#10;&#10;def test_answer_placeholders():&#10;    placeholders = get_answer_placeholders()&#10;    placeholder = placeholders[0]&#10;    if placeholder == &quot;&quot;:       # TODO: your condition here&#10;        passed()&#10;    else:&#10;        failed()&#10;&#10;&#10;if __name__ == '__main__':&#10;    run_common_tests()&#10;    # test_answer_placeholders()       # TODO: uncomment test call&#10;&#10;&#10;" />
+                              </map>
+                            </option>
+                            <option name="updateDate" value="1536663950000" />
+                            <option name="taskFiles">
+                              <map>
+                                <entry key="task.py">
+                                  <value>
+                                    <TaskFile>
+                                      <option name="answerPlaceholders">
+                                        <list />
+                                      </option>
+                                      <option name="highlightErrors" value="false" />
+                                      <option name="trackChanges" value="true" />
+                                      <option name="trackLengths" value="true" />
+                                      <option name="userCreated" value="false" />
+                                      <option name="name" value="task.py" />
+                                      <option name="text" value="" />
+                                    </TaskFile>
+                                  </value>
+                                </entry>
+                              </map>
+                            </option>
+                          </EduTask>
+                        </list>
+                      </option>
+                      <option name="unitId" value="118325" />
+                    </Lesson>
+                  </list>
+                </option>
+              </Section>
+            </list>
+          </option>
+        </RemoteCourse>
+      </option>
+      <option name="VERSION" value="9" />
+      <option name="myUserTests">
+        <map />
+      </option>
+    </StudyTaskManager>
+  </component>
+</project>
