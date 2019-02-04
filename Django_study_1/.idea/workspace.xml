@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e0cccd5-6fc4-4a34-8332-3402f0f36ae2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyMongoDB/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyMongoDB/.idea/mongoSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyMongoDB/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../four_operations/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../four_operations/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/PythonCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/PythonCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlaskSt/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FlaskSt/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlaskSt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FlaskSt/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlaskSt/venv/blog/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FlaskSt/venv/blog/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlaskSt/venv/blog/blog.db" beforeDir="false" afterPath="$PROJECT_DIR$/../FlaskSt/venv/blog/blog.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlaskSt/venv/blog/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FlaskSt/venv/blog/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlaskSt/venv/blog/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FlaskSt/venv/blog/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KSWE-Ginf-1-1/.idea/KSWE-Ginf-1-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../KSWE-Ginf-1-1/.idea/KSWE-Ginf-1-1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KSWE-Ginf-1-1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KSWE-Ginf-1-1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KSWE-Ginf-1-1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KSWE-Ginf-1-1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KSWE-Ginf-1-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KSWE-Ginf-1-1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Lib/site-packages/certifi-2018.08.24-py3.6.egg-info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Lib/site-packages/certifi/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Lib/site-packages/certifi/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Lib/site-packages/certifi/cacert.pem" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Lib/site-packages/certifi/cacert.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-console-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-console-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-datetime-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-datetime-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-debug-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-debug-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-errorhandling-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-errorhandling-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-file-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-file-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-file-l1-2-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-file-l1-2-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-file-l2-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-file-l2-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-handle-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-handle-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-heap-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-heap-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-interlocked-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-interlocked-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-libraryloader-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-libraryloader-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-localization-l1-2-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-localization-l1-2-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-memory-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-memory-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-namedpipe-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-namedpipe-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-processenvironment-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-processenvironment-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-processthreads-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-processthreads-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-processthreads-l1-1-1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-processthreads-l1-1-1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-profile-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-profile-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-rtlsupport-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-rtlsupport-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-string-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-string-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-synch-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-synch-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-synch-l1-2-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-synch-l1-2-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-sysinfo-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-sysinfo-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-timezone-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-timezone-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-util-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-core-util-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-conio-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-conio-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-convert-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-convert-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-environment-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-environment-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-filesystem-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-filesystem-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-heap-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-heap-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-locale-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-locale-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-math-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-math-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-multibyte-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-multibyte-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-private-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-private-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-process-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-process-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-runtime-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-runtime-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-stdio-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-stdio-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-string-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-string-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-time-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-time-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-utility-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/api-ms-win-crt-utility-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/concrt140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/concrt140.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/msvcp140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/msvcp140.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/ucrtbase.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/ucrtbase.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/vccorlib140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/vccorlib140.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/vcomp140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/vcomp140.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/Library/bin/vcruntime140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/Library/bin/vcruntime140.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-console-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-console-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-datetime-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-datetime-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-debug-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-debug-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-errorhandling-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-errorhandling-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-file-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-file-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-file-l1-2-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-file-l1-2-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-file-l2-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-file-l2-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-handle-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-handle-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-heap-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-heap-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-interlocked-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-interlocked-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-libraryloader-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-libraryloader-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-localization-l1-2-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-localization-l1-2-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-memory-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-memory-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-namedpipe-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-namedpipe-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-processenvironment-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-processenvironment-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-processthreads-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-processthreads-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-processthreads-l1-1-1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-processthreads-l1-1-1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-profile-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-profile-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-rtlsupport-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-rtlsupport-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-string-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-string-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-synch-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-synch-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-synch-l1-2-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-synch-l1-2-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-sysinfo-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-sysinfo-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-timezone-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-timezone-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-core-util-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-core-util-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-crt-conio-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-crt-conio-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-crt-convert-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-crt-convert-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-crt-environment-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-crt-environment-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-crt-filesystem-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-crt-filesystem-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-crt-heap-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-crt-heap-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-crt-locale-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-crt-locale-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-crt-math-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-crt-math-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-crt-multibyte-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-crt-multibyte-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-crt-private-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-crt-private-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-crt-process-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-crt-process-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-crt-runtime-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-crt-runtime-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-crt-stdio-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-crt-stdio-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-crt-string-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-crt-string-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-crt-time-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-crt-time-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/api-ms-win-crt-utility-l1-1-0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/api-ms-win-crt-utility-l1-1-0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/concrt140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/concrt140.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/conda-meta/certifi-2018.8.24-py36_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/conda-meta/history" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/conda-meta/history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/conda-meta/vc-14-h0510ff6_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/conda-meta/vs2015_runtime-14.0.25123-3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/msvcp140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/msvcp140.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/ucrtbase.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/ucrtbase.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/vccorlib140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/vccorlib140.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/vcomp140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/vcomp140.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envs/vcruntime140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../envs/vcruntime140.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tickets.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tickets.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1761926498">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.76" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="175" />
+    <option name="y" value="75" />
+    <option name="width" value="1555" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/Anaconda3" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="140" y="60" width="1244" height="672" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3137417" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>

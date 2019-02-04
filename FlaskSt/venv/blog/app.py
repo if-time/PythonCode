@@ -16,6 +16,14 @@ from playhouse.flask_utils import FlaskDB, get_object_or_404, object_list
 from playhouse.sqlite_ext import *
 
 
+# get_object_or_404() 
+# Provides a handy way of getting an object or 404ing if not found,
+# useful for urls that match based on ID.
+
+# object_list()
+# Wraps the given query and handles pagination automatically.
+# Pagination defaults to 20 but can be changed by passing in paginate_by=XX.
+
 # Blog configuration values.
 
 # You may consider using a one-way hash to generate the password, and then
@@ -62,6 +70,7 @@ class Entry(flask_db.Model):
     published = BooleanField(index=True)
     timestamp = DateTimeField(default=datetime.datetime.now, index=True)
 
+# Python内置的@property装饰器就是负责把一个方法变成属性调用的
     @property
     def html_content(self):
         """
@@ -82,7 +91,9 @@ class Entry(flask_db.Model):
     def save(self, *args, **kwargs):
         # Generate a URL-friendly representation of the entry's title.
         if not self.slug:
+            # sub(pattern, repl, string, count=0)
             self.slug = re.sub('[^\w]+', '-', self.title.lower()).strip('-')
+            # super() 函数是用于调用父类(超类)的一个方法。
         ret = super(Entry, self).save(*args, **kwargs)
 
         # Store search content.
@@ -103,6 +114,7 @@ class Entry(flask_db.Model):
         fts_entry.content = '\n'.join((self.title, self.content))
         fts_entry.save(force_insert=force_insert)
 
+    # classmethod是用来指定一个类的方法为类方法，没有此参数指定的类的方法为实例方法
     @classmethod
     def public(cls):
         return Entry.select().where(Entry.published == True)
@@ -141,11 +153,19 @@ class FTSEntry(FTSModel):
     class Meta:
         database = database
 
+
+# admin 登录验证的装饰器
 def login_required(fn):
     @functools.wraps(fn)
     def inner(*args, **kwargs):
         if session.get('logged_in'):
             return fn(*args, **kwargs)
+
+        # request.get_full_path() -- 获取当前url,(包含参数)
+        # 请求一个http://127.0.0.1:8000/200/?type=10
+        # request.get_full_path()返回的是【/200/?type=10】
+        # request.path --  获取当前url,(但不含参数)
+        # request.path返回的是 【/200/】
         return redirect(url_for('login', next=request.path))
     return inner
 

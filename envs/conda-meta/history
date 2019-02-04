@@ -10,3 +10,31 @@
 +defaults::wheel-0.31.1-py36_0
 +defaults::wincertstore-0.2-py36h7fe50ca_0
 # update specs: ['python=3.6']
+==> 2018-09-30 16:55:50 <==
+# cmd: D:\Anaconda3\Scripts\conda install --yes --json --force-pscheck --prefix E:\PythonCode\envs boost
+# conda version: 4.5.11
++defaults::blas-1.0-mkl
++defaults::boost-1.67.0-py36_4
++defaults::icc_rt-2017.0.4-h97af966_0
++defaults::intel-openmp-2019.0-118
++defaults::libboost-1.67.0-hfd51bdf_4
++defaults::mkl-2019.0-118
++defaults::mkl_fft-1.0.6-py36hdbbee80_0
++defaults::mkl_random-1.0.1-py36h77b88f5_1
++defaults::numpy-1.15.2-py36ha559c80_0
++defaults::numpy-base-1.15.2-py36h8128ebf_0
++defaults::py-boost-1.67.0-py36h8300f20_4
++defaults::xz-5.2.4-h2fa13f4_4
++defaults::zlib-1.2.11-h8395fce_2
+# update specs: ['boost']
+==> 2018-12-01 19:23:11 <==
+# cmd: D:\Anaconda3\Scripts\conda install --yes --json --force-pscheck --prefix E:\PythonCode\envs pymongo
+# conda version: 4.5.11
+-defaults::certifi-2018.8.24-py36_1
+-defaults::vc-14-h0510ff6_3
+-defaults::vs2015_runtime-14.0.25123-3
++defaults::certifi-2018.10.15-py36_0
++defaults::pymongo-3.7.2-py36ha925a31_0
++defaults::vc-14.1-h0510ff6_4
++defaults::vs2015_runtime-14.15.26706-h3a45250_0
+# update specs: ['pymongo']

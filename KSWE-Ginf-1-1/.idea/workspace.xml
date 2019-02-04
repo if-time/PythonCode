@@ -1,7 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd912b55-f5af-496c-8574-4ce01cb816dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../FlaskSt/venv/blog/blog.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/KSWE-Ginf-1-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auftrag-03/3 Hello World/3.1 Aufbau PyCharm Edu/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auftrag-03/3 Hello World/3.1 Aufbau PyCharm Edu/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auftrag-03/3 Hello World/3.3 Das Hello-World-Programm/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auftrag-03/3 Hello World/3.3 Das Hello-World-Programm/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auftrag-04/1 Turtle Grafiken/1.1 Grundlagen/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auftrag-04/1 Turtle Grafiken/1.1 Grundlagen/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auftrag-04/1 Turtle Grafiken/1.2 Einfache Figuren/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auftrag-04/1 Turtle Grafiken/1.2 Einfache Figuren/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auftrag-05/1 Kreise und Polygone/1.1 Kreise/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auftrag-05/1 Kreise und Polygone/1.1 Kreise/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auftrag-05/1 Kreise und Polygone/1.2 Polygone/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auftrag-05/1 Kreise und Polygone/1.2 Polygone/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auftrag-06/1 Variablen und Text/1.1 Anzahl Zeichen/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auftrag-06/1 Variablen und Text/1.1 Anzahl Zeichen/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auftrag-06/1 Variablen und Text/1.2 Variablen/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auftrag-06/1 Variablen und Text/1.2 Variablen/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auftrag-06/1 Variablen und Text/1.3 Einzelne Zeichen einer Zeichenkette/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auftrag-06/1 Variablen und Text/1.3 Einzelne Zeichen einer Zeichenkette/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auftrag-08/1 Grundrechenarten/1.1 Addition und Subtraktion/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auftrag-08/1 Grundrechenarten/1.1 Addition und Subtraktion/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auftrag-08/1 Grundrechenarten/1.2 Multiplikation und Division/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auftrag-08/1 Grundrechenarten/1.2 Multiplikation und Division/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auftrag-08/1 Grundrechenarten/1.3 Weitere Rechenarten/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auftrag-08/1 Grundrechenarten/1.3 Weitere Rechenarten/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlaskSt/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FlaskSt/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlaskSt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FlaskSt/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlaskSt/venv/blog/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FlaskSt/venv/blog/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlaskSt/venv/blog/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FlaskSt/venv/blog/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlaskSt/venv/blog/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FlaskSt/venv/blog/templates/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1934838096">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.376" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/auftrag-03/3 Hello World/3.3 Das Hello-World-Programm/task.py">
+          <provider selected="true" editor-type-id="StudyEditor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Course" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course">
+        <subPane>
+          <expand>
+            <path>
+              <item name="KSWE-Ginf-1-1" type="a264ea2a:RootNode" />
+              <item name="KSWE-Ginf-1-1" type="ed842865:CourseNode" />
+            </path>
+            <path>
+              <item name="KSWE-Ginf-1-1" type="a264ea2a:RootNode" />
+              <item name="KSWE-Ginf-1-1" type="ed842865:CourseNode" />
+              <item name="auftrag-03" type="76d92c43:SectionNode" />
+            </path>
+            <path>
+              <item name="KSWE-Ginf-1-1" type="a264ea2a:RootNode" />
+              <item name="KSWE-Ginf-1-1" type="ed842865:CourseNode" />
+              <item name="auftrag-03" type="76d92c43:SectionNode" />
+              <item name="3 Hello World" type="d53b8fed:LessonNode" />
+            </path>
+            <path>
+              <item name="KSWE-Ginf-1-1" type="a264ea2a:RootNode" />
+              <item name="KSWE-Ginf-1-1" type="ed842865:CourseNode" />
+              <item name="auftrag-03" type="76d92c43:SectionNode" />
+              <item name="3 Hello World" type="d53b8fed:LessonNode" />
+              <item name="3.3 Das Hello-World-Programm" type="4928525d:TaskNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="D:/Anaconda3" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23726542" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Task Description" order="3" visible="true" weight="0.308311" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/auftrag-03/3 Hello World/3.1 Aufbau PyCharm Edu/task.py">
+      <provider selected="true" editor-type-id="StudyEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auftrag-03/3 Hello World/3.3 Das Hello-World-Programm/task.py">
+      <provider selected="true" editor-type-id="StudyEditor" />
+    </entry>
   </component>
 </project>

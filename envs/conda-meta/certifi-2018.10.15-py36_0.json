@@ -1,0 +1,100 @@
+{
+  "arch": "x86_64",
+  "build": "py36_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.6,<3.7.0a0"
+  ],
+  "extracted_package_dir": "D:\\Anaconda3\\pkgs\\certifi-2018.10.15-py36_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/certifi-2018.10.15-py3.6.egg-info",
+    "Lib/site-packages/certifi/__init__.py",
+    "Lib/site-packages/certifi/__main__.py",
+    "Lib/site-packages/certifi/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/certifi/__pycache__/__main__.cpython-36.pyc",
+    "Lib/site-packages/certifi/__pycache__/core.cpython-36.pyc",
+    "Lib/site-packages/certifi/cacert.pem",
+    "Lib/site-packages/certifi/core.py"
+  ],
+  "fn": "certifi-2018.10.15-py36_0.tar.bz2",
+  "license": "ISC",
+  "link": {
+    "source": "D:\\Anaconda3\\pkgs\\certifi-2018.10.15-py36_0",
+    "type": 1
+  },
+  "md5": "f14301be8eea227ee3672059ca41b4a3",
+  "name": "certifi",
+  "package_tarball_full_path": "D:\\Anaconda3\\pkgs\\certifi-2018.10.15-py36_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/certifi-2018.10.15-py3.6.egg-info",
+        "path_type": "hardlink",
+        "sha256": "97bc7efd1ea6053a3c8311904b6b8379438e6d696eb714da38f15144c2c31fb9",
+        "sha256_in_prefix": "97bc7efd1ea6053a3c8311904b6b8379438e6d696eb714da38f15144c2c31fb9",
+        "size_in_bytes": 3070
+      },
+      {
+        "_path": "Lib/site-packages/certifi/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "1c191df72ed297a101e9416abd76ad83f10aebed080e1f22c6d87d6ba2ee609e",
+        "sha256_in_prefix": "1c191df72ed297a101e9416abd76ad83f10aebed080e1f22c6d87d6ba2ee609e",
+        "size_in_bytes": 63
+      },
+      {
+        "_path": "Lib/site-packages/certifi/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "162398b75165b6cb7bc24f4345ae860a806bf2a054c65350bbf30a25fd3813ab",
+        "sha256_in_prefix": "162398b75165b6cb7bc24f4345ae860a806bf2a054c65350bbf30a25fd3813ab",
+        "size_in_bytes": 41
+      },
+      {
+        "_path": "Lib/site-packages/certifi/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "37f99afcf304d632eb82c74eb6bf5870cacd6fba2af34e264dbceda0c8f5115e",
+        "sha256_in_prefix": "37f99afcf304d632eb82c74eb6bf5870cacd6fba2af34e264dbceda0c8f5115e",
+        "size_in_bytes": 205
+      },
+      {
+        "_path": "Lib/site-packages/certifi/__pycache__/__main__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "0d60d659c8610a20164e1c582da903e503fde74bcbf4c02f86b044726c52e461",
+        "sha256_in_prefix": "0d60d659c8610a20164e1c582da903e503fde74bcbf4c02f86b044726c52e461",
+        "size_in_bytes": 176
+      },
+      {
+        "_path": "Lib/site-packages/certifi/__pycache__/core.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "3dc413fdc112f3af9122deb15624a8d590590ab1cc25b080177cd1924df8a872",
+        "sha256_in_prefix": "3dc413fdc112f3af9122deb15624a8d590590ab1cc25b080177cd1924df8a872",
+        "size_in_bytes": 1140
+      },
+      {
+        "_path": "Lib/site-packages/certifi/cacert.pem",
+        "path_type": "hardlink",
+        "sha256": "c3d80fe76b0690ffaa37d712b443ef82f4e601d4a9a6488368f995e1ea2169bc",
+        "sha256_in_prefix": "c3d80fe76b0690ffaa37d712b443ef82f4e601d4a9a6488368f995e1ea2169bc",
+        "size_in_bytes": 261241
+      },
+      {
+        "_path": "Lib/site-packages/certifi/core.py",
+        "path_type": "hardlink",
+        "sha256": "c4f403746fec8b2e40ec17ea1966bb44985c03ad715c4a8f892af0f463728471",
+        "sha256_in_prefix": "c4f403746fec8b2e40ec17ea1966bb44985c03ad715c4a8f892af0f463728471",
+        "size_in_bytes": 836
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "None",
+  "size": 141664,
+  "subdir": "win-64",
+  "timestamp": 1539631100013,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/certifi-2018.10.15-py36_0.tar.bz2",
+  "version": "2018.10.15"
+}

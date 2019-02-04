@@ -32,6 +32,8 @@
               <li><a href="{{ url_for('drafts') }}">Drafts</a></li>
               <li><a href="{{ url_for('create') }}">Create Entry</a></li>
               <li><a href="{{ url_for('logout') }}">Log out</a></li>
+            {% else %}
+              <li><a href="{{ url_for('login') }}">Login</a></li>
             {% endif %}
             {% block extra_header %}{% endblock %}
           </ul>

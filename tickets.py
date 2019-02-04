@@ -50,6 +50,7 @@ class TrainsCollection:
                     raw_train_list[-11] if raw_train_list[-11] else '--',#硬座
                     raw_train_list[-9] if raw_train_list[-9] else '--',#无座
                 ]
+                # yield 的作用就是把一个函数变成一个 generator，带有 yield 的函数不再是一个普通函数，Python 解释器会将其视为一个 generator
                 yield train
 
     def pretty_print(self):

@@ -1,0 +1,36 @@
+{
+  "arch": "x86_64",
+  "build": "py36_4",
+  "build_number": 4,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "libboost 1.67.0 hfd51bdf_4",
+    "py-boost 1.67.0 py36h8300f20_4",
+    "python >=3.6,<3.7.0a0"
+  ],
+  "extracted_package_dir": "D:\\Anaconda3\\pkgs\\boost-1.67.0-py36_4",
+  "features": "",
+  "files": [],
+  "fn": "boost-1.67.0-py36_4.tar.bz2",
+  "license": "Boost-1.0",
+  "link": {
+    "source": "D:\\Anaconda3\\pkgs\\boost-1.67.0-py36_4",
+    "type": 1
+  },
+  "md5": "95f6a0e91ebaed7b4dec764d3eda8aff",
+  "name": "boost",
+  "package_tarball_full_path": "D:\\Anaconda3\\pkgs\\boost-1.67.0-py36_4.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "boost",
+  "size": 12758,
+  "subdir": "win-64",
+  "timestamp": 1532724907503,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/boost-1.67.0-py36_4.tar.bz2",
+  "version": "1.67.0"
+}
