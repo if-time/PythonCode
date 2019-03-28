@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "python.pythonPath": "D:\\Anaconda3\\python.exe",
     "git.ignoreLimitWarning": true,
     "python.linting.pylintEnabled": true
 }
