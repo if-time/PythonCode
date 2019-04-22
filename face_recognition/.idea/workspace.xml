@@ -14,12 +14,26 @@
     <SUITE FILE_PATH="coverage/face_recognition$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1545711067978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/face_recognition$addXmasHat.coverage" NAME="addXmasHat Coverage Results" MODIFIED="1545711601267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/addXmasHat.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
+            <state relative-caret-position="246">
               <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
@@ -31,6 +45,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
@@ -41,8 +56,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="316" />
-    <option name="y" value="106" />
+    <option name="x" value="315" />
+    <option name="y" value="105" />
     <option name="width" value="1310" />
     <option name="height" value="785" />
   </component>
@@ -52,16 +67,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="face_recognition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -122,14 +149,17 @@
       <workItem from="1552793244331" duration="239000" />
       <workItem from="1552793868152" duration="1092000" />
       <workItem from="1553771598282" duration="1323000" />
+      <workItem from="1555332793712" duration="93000" />
+      <workItem from="1555333025486" duration="2615000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2654000" />
+    <option name="totallyTimeSpent" value="5362000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="253" y="85" width="1048" height="628" extended-state="0" />
+    <frame x="252" y="84" width="1048" height="628" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22020201" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -145,16 +175,16 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="11" side_tool="true" visible="true" weight="0.3279678" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32862905" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="R Graphics" order="4" />
-      <window_info anchor="right" id="R Packages" order="5" />
-      <window_info anchor="right" id="Mongo Explorer" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="R Graphics" order="4" weight="0.3297587" />
+      <window_info anchor="right" id="R Packages" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="7" weight="0.4969697" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +209,7 @@
     <entry file="file://$PROJECT_DIR$/6.JPG" />
     <entry file="file://$PROJECT_DIR$/addXmasHat.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
+        <state relative-caret-position="246">
           <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
